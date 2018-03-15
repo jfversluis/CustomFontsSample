@@ -31,7 +31,7 @@ namespace CustomFontsSample.iOS
             UINavigationBar.Appearance.SetTitleTextAttributes(new UITextAttributes
             {
                 TextColor = UIColor.Black,
-                Font = UIFont.FromName("Comic Sans MS", 24)
+                Font = UIFont.FromName("ComicSansMS", 24)
             });
 
             LoadApplication(new App());

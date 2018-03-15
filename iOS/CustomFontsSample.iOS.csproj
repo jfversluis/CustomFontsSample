@@ -110,6 +110,7 @@
   <ItemGroup>
     <Folder Include="Resources\" />
     <Folder Include="Resources\Fonts\" />
+    <Folder Include="Renderers\" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
@@ -122,6 +123,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="Renderers\ExtendedTabbedPageRenderer.cs" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Fonts\ComicSaaaans.ttf" />

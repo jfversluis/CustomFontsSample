@@ -28,4 +28,8 @@
         <!--set your custom font properties-->
         <item name="android:fontFamily">@font/comicsaaaans</item>
     </style>
+    <style name="TabBar.TitleText" parent="TextAppearance.Design.Tab">
+        <!--set your custom font properties-->
+        <item name="android:fontFamily">@font/comicsaaaans</item>
+    </style>
 </resources>

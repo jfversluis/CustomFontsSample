@@ -2,7 +2,7 @@
 
 namespace CustomFontsSample
 {
-    public partial class CustomFontsSamplePage : ContentPage
+    public partial class CustomFontsSamplePage : TabbedPage
     {
         public CustomFontsSamplePage()
         {
